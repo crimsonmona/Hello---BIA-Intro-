@@ -5,5 +5,5 @@ I am a graduate of Montclair State University, where I earned a degree in Commun
 
 Please check out my sample project below where I ran a restaurant analysis for an app called Zomato. In the analysis we breakdown the study of restaurant culture on this application. What makes some of these restaurants so popular, and how does that affect revenue on Zomato? 
 
-Please see the full analysis on the Project Link page in this Repository
+Please see the full analysis on the Project Link page in this Repository.
 
